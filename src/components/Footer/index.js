@@ -1,10 +1,9 @@
-
 import styles from './Footer.module.css';
 
 function Footer(){
-    return (
+    return(
         <footer className={styles.footer}>
-            <h2>Desenvolvido por Letícia Almeida &reg; 2024</h2>
+            <h2>Desenvolvido por Lucas Martins &reg; 2024</h2>
         </footer>
     );
 }
